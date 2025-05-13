@@ -1,5 +1,3 @@
-# Hospital Emergency Room Dashboard
-This project is a dynamic, data-driven dashboard created in Microsoft Excel to visualize and analyze emergency room operations within a hospital setting. Designed with Pivot Tables, Pivot Charts, and interactive slicers, this tool delivers powerful insights into patient flow, departmental workload, and healthcare service quality on a monthly basis.
 # 🏥 Hospital Emergency Room Dashboard (Excel-Based Interactive Report)
 
 This project is a **data-driven dashboard** built in **Microsoft Excel** for visualizing and analyzing hospital emergency room (ER) performance on a **monthly basis**. It offers critical insights into patient volumes, wait times, satisfaction scores, demographics, and department referrals using **pivot tables**, **pivot charts**, and interactive controls.
